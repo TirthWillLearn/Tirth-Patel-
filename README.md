@@ -6,7 +6,7 @@
 <img alt="Coding" width="80%" src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/hi1.gif">
 </p>
 
-<h1 align="center"> Hi there, I'm <a href="https://www.tirthdev.in">Tirth Patel</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="#">Tirth Patel</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
